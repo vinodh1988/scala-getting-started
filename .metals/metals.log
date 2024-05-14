@@ -424,3 +424,213 @@ WARNING: Unmatched cancel notification for request id 942
 2024.05.14 15:58:32 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
 2024.05.14 15:58:34 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
 2024.05.14 15:58:34 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.16s
+2024.05.14 16:04:40 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:04:40 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.14s
+2024.05.14 16:04:43 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:04:43 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.11s
+2024.05.14 16:04:46 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:04:46 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:04:49 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:04:51 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:04:52 INFO  Scala CLI: May 14, 2024 4:04:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+2024.05.14 16:04:52 INFO  Scala CLI: SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException: Index -2147483648 out of bounds for length 151
+2024.05.14 16:04:52 INFO  Scala CLI: java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index -2147483648 out of bounds for length 151
+2024.05.14 16:04:52 INFO  Scala CLI: 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at java.base/java.lang.Thread.run(Thread.java:842)
+2024.05.14 16:04:52 INFO  Scala CLI: Caused by: java.lang.ArrayIndexOutOfBoundsException: Index -2147483648 out of bounds for length 151
+2024.05.14 16:04:52 INFO  Scala CLI: 	at com.virtuslab.using_directives.custom.CustomCharArrayReader.nextChar(CustomCharArrayReader.java:29)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at com.virtuslab.using_directives.custom.Scanner.lambda$skipComment$5(Scanner.java:298)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at com.virtuslab.using_directives.custom.Scanner.skipComment(Scanner.java:308)
+2024.05.14 16:04:52 INFO  Cancelling compilation on scala-cli server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.05.14 16:04:52 INFO  Scala CLI: 	at com.virtuslab.using_directives.custom.Scanner.doFetchToken(Scanner.java:187)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at com.virtuslab.using_directives.custom.Scanner.fetchToken(Scanner.java:144)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at com.virtuslab.using_directives.custom.Scanner.nextToken(Scanner.java:98)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at com.virtuslab.using_directives.custom.Scanner.<init>(Scanner.java:27)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at com.virtuslab.using_directives.custom.Parser.<init>(Parser.java:20)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at com.virtuslab.using_directives.UsingDirectivesProcessor.extract(UsingDirectivesProcessor.java:34)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.preprocessing.ExtractedDirectives$.from(ExtractedDirectives.scala:48)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.preprocessing.ScalaPreprocessor$.process$$anonfun$1(ScalaPreprocessor.scala:196)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.EitherCps$Helper.apply(EitherCps.scala:19)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.preprocessing.ScalaPreprocessor$.process(ScalaPreprocessor.scala:210)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.preprocessing.ScalaPreprocessor$.$anonfun$1(ScalaPreprocessor.scala:71)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.EitherCps$Helper.apply(EitherCps.scala:19)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.preprocessing.ScalaPreprocessor$.preprocess(ScalaPreprocessor.scala:115)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.CrossSources$.preprocessSources$1$$anonfun$1$$anonfun$1(CrossSources.scala:180)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.collection.Iterator$$anon$10.nextCur(Iterator.scala:594)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.collection.Iterator$$anon$10.hasNext(Iterator.scala:608)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.collection.Iterator$SliceIterator.hasNext(Iterator.scala:1240)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.collection.immutable.List.prependedAll(List.scala:152)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.collection.IterableOnceOps.toList(IterableOnce.scala:1446)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.collection.IterableOnceOps.toList$(IterableOnce.scala:1446)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.collection.AbstractIterator.toList(Iterator.scala:1303)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.CrossSources$.preprocessSources$1$$anonfun$1(CrossSources.scala:182)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.collection.immutable.List.map(List.scala:251)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.collection.immutable.List.map(List.scala:79)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.CrossSources$.preprocessSources$1(CrossSources.scala:185)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.CrossSources$.forInputs$$anonfun$1(CrossSources.scala:204)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.EitherCps$Helper.apply(EitherCps.scala:19)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.CrossSources$.forInputs(CrossSources.scala:376)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.bsp.BspImpl.prepareBuild$$anonfun$1(BspImpl.scala:111)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.EitherCps$Helper.apply(EitherCps.scala:19)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.bsp.BspImpl.prepareBuild(BspImpl.scala:212)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at scala.build.bsp.BspImpl.$anonfun$9(BspImpl.scala:293)
+2024.05.14 16:04:52 INFO  Scala CLI: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+2024.05.14 16:04:52 INFO  Scala CLI: 	... 3 more
+2024.05.14 16:04:52 INFO  Scala CLI: 
+2024.05.14 16:04:52 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:04:52 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:04:52 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 34ms
+2024.05.14 16:04:52 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:04:52 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:04:57 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:04:57 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:05:04 INFO  Scala CLI: May 14, 2024 4:05:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+2024.05.14 16:05:04 INFO  Scala CLI: SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException
+2024.05.14 16:05:04 INFO  Cancelling compilation on scala-cli server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.05.14 16:05:04 INFO  Scala CLI: java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException
+2024.05.14 16:05:04 INFO  Scala CLI: 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315)
+2024.05.14 16:05:04 INFO  Scala CLI: 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320)
+2024.05.14 16:05:04 INFO  Scala CLI: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770)
+2024.05.14 16:05:04 INFO  Scala CLI: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.05.14 16:05:04 INFO  Scala CLI: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.05.14 16:05:04 INFO  Scala CLI: 	at java.base/java.lang.Thread.run(Thread.java:842)
+2024.05.14 16:05:04 INFO  Scala CLI: Caused by: java.lang.ArrayIndexOutOfBoundsException
+2024.05.14 16:05:04 INFO  Scala CLI: 
+2024.05.14 16:05:04 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:05:04 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.11s
+2024.05.14 16:05:08 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:05:09 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:05:13 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:05:15 INFO  Scala CLI: May 14, 2024 4:05:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+2024.05.14 16:05:15 INFO  Scala CLI: SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException
+2024.05.14 16:05:15 INFO  Cancelling compilation on scala-cli server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.05.14 16:05:15 INFO  Scala CLI: java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException
+2024.05.14 16:05:15 INFO  Scala CLI: 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315)
+2024.05.14 16:05:15 INFO  Scala CLI: 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320)
+2024.05.14 16:05:15 INFO  Scala CLI: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770)
+2024.05.14 16:05:15 INFO  Scala CLI: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.05.14 16:05:15 INFO  Scala CLI: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.05.14 16:05:15 INFO  Scala CLI: 	at java.base/java.lang.Thread.run(Thread.java:842)
+2024.05.14 16:05:15 INFO  Scala CLI: Caused by: java.lang.ArrayIndexOutOfBoundsException
+2024.05.14 16:05:15 INFO  Scala CLI: 
+2024.05.14 16:05:15 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:05:15 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:05:15 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 32ms
+2024.05.14 16:05:15 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:05:20 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:05:21 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:05:26 INFO  Scala CLI: May 14, 2024 4:05:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+2024.05.14 16:05:26 INFO  Scala CLI: SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException
+2024.05.14 16:05:26 INFO  Scala CLI: java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException
+2024.05.14 16:05:26 INFO  Cancelling compilation on scala-cli server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.05.14 16:05:26 INFO  Scala CLI: 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315)
+2024.05.14 16:05:26 INFO  Scala CLI: 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320)
+2024.05.14 16:05:26 INFO  Scala CLI: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770)
+2024.05.14 16:05:26 INFO  Scala CLI: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+2024.05.14 16:05:26 INFO  Scala CLI: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+2024.05.14 16:05:26 INFO  Scala CLI: 	at java.base/java.lang.Thread.run(Thread.java:842)
+2024.05.14 16:05:26 INFO  Scala CLI: Caused by: java.lang.ArrayIndexOutOfBoundsException
+2024.05.14 16:05:26 INFO  Scala CLI: 
+2024.05.14 16:05:27 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:05:27 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.12s
+2024.05.14 16:06:07 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:06:07 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 50ms
+2024.05.14 16:06:09 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:06:28 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:06:28 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.12s
+2024.05.14 16:06:30 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:06:30 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Third.scala
+2024.05.14 16:06:33 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:06:33 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.1s
+2024.05.14 16:07:38 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Command.scala
+2024.05.14 16:07:38 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:07:38 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 46ms
+2024.05.14 16:07:40 INFO  time: indexed workspace in 1.81s
+May 14, 2024 4:07:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1513
+May 14, 2024 4:07:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1520
+May 14, 2024 4:07:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1521
+May 14, 2024 4:07:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1522
+2024.05.14 16:07:57 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:07:57 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 56ms
+2024.05.14 16:08:01 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:08:01 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 54ms
+2024.05.14 16:08:04 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:08:04 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 50ms
+2024.05.14 16:08:06 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:08:06 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 33ms
+2024.05.14 16:08:09 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:08:09 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.16s
+2024.05.14 16:08:10 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:08:10 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.17s
+2024.05.14 16:08:16 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:08:16 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.14s
+2024.05.14 16:08:21 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:08:21 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.15s
+2024.05.14 16:08:26 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:08:26 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.15s
+2024.05.14 16:10:25 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:10:25 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.17s
+2024.05.14 16:10:32 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:10:32 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.14s
+2024.05.14 16:10:34 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:10:34 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.15s
+2024.05.14 16:10:39 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:10:39 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.17s
+2024.05.14 16:10:41 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:10:41 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.12s
