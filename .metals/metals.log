@@ -780,3 +780,33 @@ scala.meta.tokenizers.TokenizeException: <input>:3: error: unclosed string liter
 2024.05.14 16:15:25 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 58ms
 2024.05.14 16:15:27 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
 2024.05.14 16:15:27 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.11s
+2024.05.14 16:18:58 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/arrays.scala
+2024.05.14 16:18:58 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:18:58 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 50ms
+2024.05.14 16:19:00 INFO  time: indexed workspace in 1.75s
+May 14, 2024 4:19:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2277
+2024.05.14 16:19:11 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:19:11 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.16s
+2024.05.14 16:19:13 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:19:13 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.15s
+2024.05.14 16:19:24 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:19:24 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.13s
+2024.05.14 16:19:28 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:19:28 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.12s
+2024.05.14 16:19:29 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:19:29 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 47ms
+2024.05.14 16:19:34 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:19:34 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.13s
+2024.05.14 16:19:37 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:19:37 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 51ms
+2024.05.14 16:19:39 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:19:39 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.12s
+2024.05.14 16:20:07 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:20:07 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.13s
+2024.05.14 16:20:13 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:20:13 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.13s
+2024.05.14 16:20:17 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:20:17 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.13s
+2024.05.14 16:20:20 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.14 16:20:20 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.14s
