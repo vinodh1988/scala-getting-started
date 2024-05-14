@@ -1,0 +1,12 @@
+Operators
+-----------
+
+Arithmetic +,-,*,/,%
+Relational  >,<,>=,<=,==,!=
+logical &&, ||, !
+NO increment,decrement (++, --)
+bitvise - &,|, ^,>>,<<,~
+
+Ternary operator - not java style scala style straight forward
+
+Scala supports operator overloading
