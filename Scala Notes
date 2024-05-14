@@ -10,3 +10,21 @@ bitvise - &,|, ^,>>,<<,~
 Ternary operator - not java style scala style straight forward
 
 Scala supports operator overloading
+
+Iterative
+--------
+
+   while 
+   for
+
+   NO- do while
+
+Conditional
+
+   if else if else
+
+Selection statements
+
+    no switch
+    
+    pattern matching technique as an alternative
