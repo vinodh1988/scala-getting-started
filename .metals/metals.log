@@ -977,3 +977,5 @@ println(process("N))
 
 2024.05.14 17:05:54 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
 2024.05.14 17:05:54 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.16s
+May 15, 2024 6:28:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
