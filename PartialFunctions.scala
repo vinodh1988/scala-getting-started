@@ -3,5 +3,6 @@ val reciprocal: PartialFunction[Double, Double] = {
 }
 @main def doThis() = {
 println(reciprocal.isDefinedAt(2.0)) // true
+println(reciprocal(2.0))
 println(reciprocal.isDefinedAt(0.0)) // false
 }
