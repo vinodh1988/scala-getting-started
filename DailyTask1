@@ -1,0 +1,22 @@
+Create a function that takes callback as a parameter
+
+Application:
+
+* the function should pass a 10x10 matrix  with seat numbers
+
+* filled seats must be represented with X
+
+* available seats must be represented with seat numbers
+
+* the user callback must print the matrix
+
+* should return an array of seat numbers to the function
+
+* the function would allocate the seats and callback
+with modified matrix
+
+* new seat booking can continue again
+
+* if the user instead of sending array send null
+the process should stop
+

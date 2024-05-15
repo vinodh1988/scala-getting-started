@@ -1,0 +1,18 @@
+Create a function 
+which of the format
+
+getAlgorithm(type: String): (Array[int])=>Unit
+
+implement
+
+bubblesort
+insertionsort
+quicksort
+mergesort
+radixsort 
+binary search
+
+logics in six different functions and return those
+function based on the user input
+
+and the user needs to execute the logic that is returned
