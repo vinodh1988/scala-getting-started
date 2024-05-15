@@ -1,0 +1,22 @@
+Libraries
+---------
+
+   oop - class & interfaces
+   
+   functional - functions
+
+
+
+Library
+-------
+
+
+
+User - using the Library
+
+  step 1 - Library
+  step 2 - Library
+  step 3 - library communicate to caller and caller will run
+  step 4 - caller will run
+  step 5  - caller may communicate something again to library
+  step 6 - library function
