@@ -2573,3 +2573,12 @@ scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string inter
 2024.05.15 12:18:31 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.12s
 May 15, 2024 12:19:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 11942
+2024.05.15 12:32:04 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/PartialFunctions.scala
+2024.05.15 12:32:04 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 12:32:04 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.14s
+2024.05.15 12:32:06 INFO  time: indexed workspace in 2.05s
+2024.05.15 12:32:17 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/PartialFunctions.scala
+2024.05.15 12:33:18 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 12:33:18 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 64ms
+2024.05.15 12:34:01 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 12:34:01 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.25s
