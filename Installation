@@ -9,3 +9,12 @@ and in the console
 // brew install almond
 
  // Almond - this is a kernel for jupyter to support scala in jupyter notebook
+
+ /*
+
+ $ curl -Lo coursier https://git.io/coursier-cli
+$ chmod +x coursier
+$ ./coursier launch --fork almond -- --install
+$ rm -f coursier
+*/
+
