@@ -1806,3 +1806,379 @@ bigTaskLibrary("Simple Lambda oriented task",(x=> if(x=="Finish") "success" else
 2024.05.15 11:47:49 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.19s
 2024.05.15 11:48:54 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
 2024.05.15 11:48:54 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.15s
+2024.05.15 11:53:23 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:53:23 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 61ms
+2024.05.15 11:53:27 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:53:27 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 51ms
+2024.05.15 11:53:34 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:53:34 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 48ms
+2024.05.15 11:53:50 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:53:50 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.16s
+2024.05.15 11:53:52 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:53:52 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.12s
+2024.05.15 11:55:43 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/funReturn.scala
+2024.05.15 11:55:44 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:55:44 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 54ms
+2024.05.15 11:55:45 INFO  time: indexed workspace in 1.69s
+May 15, 2024 11:55:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9035
+May 15, 2024 11:55:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9046
+2024.05.15 11:55:55 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:55:55 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 47ms
+2024.05.15 11:55:55 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:55:55 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 38ms
+2024.05.15 11:56:02 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:56:02 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 41ms
+2024.05.15 11:56:05 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:56:05 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 40ms
+2024.05.15 11:56:13 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:56:13 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 38ms
+2024.05.15 11:56:18 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:56:18 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 37ms
+2024.05.15 11:56:19 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:56:19 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 33ms
+2024.05.15 11:56:22 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:56:22 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 35ms
+2024.05.15 11:56:25 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:56:25 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 30ms
+2024.05.15 11:56:27 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:56:27 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 36ms
+2024.05.15 11:56:28 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:56:28 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 29ms
+2024.05.15 11:56:34 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:56:34 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 36ms
+2024.05.15 11:56:40 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:56:40 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 38ms
+2024.05.15 11:56:46 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:56:46 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 35ms
+2024.05.15 11:56:47 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:56:47 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 42ms
+2024.05.15 11:57:11 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:57:11 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 36ms
+2024.05.15 11:57:13 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:57:13 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 59ms
+2024.05.15 11:57:17 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:57:17 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 38ms
+2024.05.15 11:57:22 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:57:22 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 36ms
+2024.05.15 11:57:28 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:57:28 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 39ms
+2024.05.15 11:57:33 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:57:33 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.44s
+2024.05.15 11:57:37 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:57:37 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.35s
+2024.05.15 11:57:40 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:57:40 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.3s
+2024.05.15 11:57:46 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:57:46 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.48s
+2024.05.15 11:57:50 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:57:50 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.33s
+2024.05.15 11:57:53 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:57:53 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.38s
+2024.05.15 11:57:56 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:57:56 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.38s
+2024.05.15 11:58:00 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:58:00 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.29s
+2024.05.15 11:58:06 ERROR Failed to tokenize input for semantic tokens for /Users/vinodh/Scala-Getting-Started/funReturn.scala
+scala.meta.tokenizers.TokenizeException: <input>:3: error: unclosed string literal
+  case "add" => println("On
+                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:560)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:379)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.05.15 11:58:07 ERROR Failed to tokenize input for semantic tokens for /Users/vinodh/Scala-Getting-Started/funReturn.scala
+scala.meta.tokenizers.TokenizeException: <input>:3: error: unclosed string literal
+  case "add" => println("O
+                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:560)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:379)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+May 15, 2024 11:58:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9564
+2024.05.15 11:58:11 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:58:11 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.3s
+2024.05.15 11:58:13 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:58:13 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.28s
+2024.05.15 11:58:16 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:58:16 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.3s
+2024.05.15 11:58:23 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:58:23 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.33s
+2024.05.15 11:58:25 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:58:25 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.24s
+2024.05.15 11:58:29 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:58:29 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.23s
+2024.05.15 11:58:40 ERROR Failed to tokenize input for semantic tokens for /Users/vinodh/Scala-Getting-Started/funReturn.scala
+scala.meta.tokenizers.TokenizeException: <input>:5: error: unclosed string literal
+  case "sub" => println("Three
+                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:560)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:379)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.05.15 11:58:45 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:58:45 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.26s
+2024.05.15 11:58:48 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:58:48 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.2s
+2024.05.15 11:58:51 ERROR Failed to tokenize input for semantic tokens for /Users/vinodh/Scala-Getting-Started/funReturn.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string literal
+  case _ => println("Something
+                    ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:560)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:379)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.05.15 11:58:51 ERROR Failed to tokenize input for semantic tokens for /Users/vinodh/Scala-Getting-Started/funReturn.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string literal
+  case _ => println("Somet
+                    ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:560)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:379)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.05.15 11:58:52 ERROR Failed to tokenize input for semantic tokens for /Users/vinodh/Scala-Getting-Started/funReturn.scala
+scala.meta.tokenizers.TokenizeException: <input>:6: error: unclosed string literal
+  case _ => println("So
+                    ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:560)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:379)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.05.15 11:58:55 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:58:55 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.2s
+2024.05.15 11:58:55 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:58:55 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 96ms
+2024.05.15 11:58:57 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:58:57 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 62ms
+2024.05.15 11:59:00 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:59:00 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.21s
+2024.05.15 11:59:02 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:59:02 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 53ms
+2024.05.15 11:59:04 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:59:04 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.15s
+2024.05.15 11:59:18 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:59:18 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 47ms
+2024.05.15 11:59:20 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:59:20 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 39ms
+2024.05.15 11:59:22 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:59:22 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 48ms
+2024.05.15 11:59:25 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:59:25 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.14s
+2024.05.15 11:59:29 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:59:29 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 54ms
+2024.05.15 11:59:33 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:59:33 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.14s
+2024.05.15 11:59:35 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:59:35 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 49ms
+2024.05.15 11:59:40 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:59:40 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 66ms
+2024.05.15 11:59:46 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:59:46 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.12s
+2024.05.15 12:01:29 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 12:01:29 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 90ms
+2024.05.15 12:01:32 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 12:01:32 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.19s
+2024.05.15 12:01:49 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 12:01:49 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.13s
+2024.05.15 12:01:52 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 12:01:52 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.14s
+2024.05.15 12:02:04 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 12:02:04 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.14s
+2024.05.15 12:02:05 ERROR Failed to tokenize input for semantic tokens for /Users/vinodh/Scala-Getting-Started/funReturn.scala
+scala.meta.tokenizers.TokenizeException: <input>:12: error: unclosed string interpolation
+   println(s" result of 12 operated with 35 $")
+             ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:666)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:364)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.05.15 12:02:06 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 12:02:06 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 49ms
+2024.05.15 12:02:05 ERROR Failed to tokenize input for semantic tokens for /Users/vinodh/Scala-Getting-Started/funReturn.scala
+scala.meta.tokenizers.TokenizeException: <input>:12: error: unclosed string interpolation
+   println(s" result of 12 operated with 35 $")
+             ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:666)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:364)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:597)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2024.05.15 12:02:08 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 12:02:08 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.15s
