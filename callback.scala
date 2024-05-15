@@ -10,6 +10,8 @@ def bigTaskLibrary(data: String, callback: (String)=> String): Unit= {
        println("it seems the user logic has not been done properly")
 } 
 
+
+
 //User1
 def userActivity(info: String): String = {
   if(info == "Finish")
@@ -25,4 +27,6 @@ def userActivity(info: String): String = {
 @main def runTheBlock = {
 //Calling the library
 bigTaskLibrary("Callback Scala Task",userActivity)
+println("------------------------------------------------")
+bigTaskLibrary("Simple Lambda oriented task",x=> if(x=="Finish") "success" else s"done with processing $x")
 }
