@@ -10,6 +10,9 @@ and in the console
 
  // Almond - this is a kernel for jupyter to support scala in jupyter notebook
 
+brew install openjdk@17
+
+
  /*
 
  $ curl -Lo coursier https://git.io/coursier-cli
@@ -18,3 +21,18 @@ $ ./coursier launch --fork almond -- --install
 $ rm -f coursier
 */
 
+
+bash
+Copy code
+nano ~/.bash_profile
+Add the following line to the file, replacing /Library/Java/JavaVirtualMachines/jdk-11.0.12.jdk/Contents/Home with the path you got from the previous step:
+
+javascript
+Copy code
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.0.12.jdk/Contents/Home
+Update PATH:
+Still in your shell profile file, add the JDK's bin directory to your PATH variable so that you can execute Java commands from any directory in your terminal.
+
+bash
+Copy code
+export PATH=$JAVA_HOME/bin:$PATH

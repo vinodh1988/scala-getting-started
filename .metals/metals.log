@@ -1024,3 +1024,334 @@ INFO: Unsupported notification method: $/setTrace
 2024.05.15 09:43:46 WARN  Could not load snapshot text for /Users/vinodh/Scala-Getting-Started/Third.scala
 2024.05.15 09:43:46 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
 2024.05.15 09:43:46 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.16s
+May 15, 2024 10:31:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-notebook-cell:/Users/vinodh/Scala-Getting-Started/worksheet.ipynb#W0sZmlsZQ%3D%3D"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor24.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "vscode-notebook-cell" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:131)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:732)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:729)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:639)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	... 15 more
+
+May 15, 2024 10:38:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-notebook-cell:/Users/vinodh/Scala-Getting-Started/worksheet.ipynb#W1sZmlsZQ%3D%3D"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor24.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "vscode-notebook-cell" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:131)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:732)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:729)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:639)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	... 15 more
+
+2024.05.15 11:08:58 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:08:58 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:09:00 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:09:00 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:09:01 INFO  time: indexed workspace in 2.69s
+2024.05.15 11:09:11 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:09:11 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 766μs
+2024.05.15 11:09:11 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:09:11 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:09:11 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 39ms
+2024.05.15 11:09:11 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:16 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:16 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:17 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:18 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:18 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:19 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:20 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:21 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:21 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:22 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:23 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:23 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:24 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:24 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:25 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:26 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:26 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:27 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:28 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:28 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:29 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:29 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:31 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:31 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:32 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:32 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:33 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:34 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:35 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:35 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:36 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:36 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:37 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:37 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:37 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:38 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:38 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:40 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:40 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:41 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:41 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:42 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:43 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:43 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:44 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:44 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:45 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:45 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:47 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:47 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:48 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:48 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:49 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:49 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:50 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:51 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:51 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:52 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:51 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:53 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:54 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:54 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:55 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:55 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:56 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:57 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:57 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:57 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:58 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:10:59 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:00 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:00 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:01 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:01 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:02 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:02 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:03 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:04 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:04 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:04 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:05 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:05 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:06 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:06 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:07 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:08 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:08 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:09 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:09 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:11 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:11 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:12 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:12 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:13 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:11:13 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 39ms
+2024.05.15 11:11:13 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:13 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:14 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:14 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:15 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:15 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:16 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:17 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:11:17 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 43ms
+2024.05.15 11:11:17 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:17 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:18 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:19 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:19 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:20 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:21 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:11:21 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 31ms
+2024.05.15 11:11:21 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:21 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:11:22 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:11:22 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 34ms
+2024.05.15 11:11:22 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+May 15, 2024 11:11:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4912
+2024.05.15 11:12:33 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:34 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:12:34 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 35ms
+2024.05.15 11:12:34 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:34 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:36 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:12:36 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 28ms
+2024.05.15 11:12:36 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:36 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:37 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:38 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:39 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:40 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:40 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:41 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:41 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:41 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:43 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:12:43 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 34ms
+2024.05.15 11:12:43 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:43 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:44 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:12:44 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 41ms
+2024.05.15 11:12:44 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:45 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:45 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:45 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:47 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:12:47 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 38ms
+2024.05.15 11:12:47 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:48 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:49 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:12:49 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 36ms
+2024.05.15 11:12:49 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:49 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:50 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:12:50 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 33ms
+2024.05.15 11:12:50 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:50 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:52 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:52 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:53 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:12:53 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 29ms
+2024.05.15 11:12:53 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:54 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:54 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:55 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:56 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:58 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:58 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:59 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:12:59 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:00 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:13:00 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 31ms
+2024.05.15 11:13:00 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:06 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:07 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:07 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:13:07 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 31ms
+2024.05.15 11:13:07 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:08 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:09 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:10 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:10 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:11 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:12 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:13:12 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 31ms
+2024.05.15 11:13:12 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:26 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:27 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:13:27 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 36ms
+2024.05.15 11:13:27 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:28 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:29 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:29 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Functions.scala
+2024.05.15 11:13:31 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:13:31 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 66ms
+2024.05.15 11:13:35 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:13:35 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 37ms
+2024.05.15 11:13:41 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:13:41 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 42ms
+2024.05.15 11:13:42 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:13:42 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.11s
+2024.05.15 11:13:45 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:13:45 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 86ms
+2024.05.15 11:13:53 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:13:53 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.1s
+May 15, 2024 11:13:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5233
+2024.05.15 11:13:58 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:13:58 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.12s
+2024.05.15 11:14:00 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:14:00 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.11s
+2024.05.15 11:14:06 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:14:06 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 43ms
+2024.05.15 11:14:07 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:14:07 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 56ms
+2024.05.15 11:14:09 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:14:09 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 34ms
+2024.05.15 11:14:14 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:14:14 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 69ms
+2024.05.15 11:14:16 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:14:16 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 44ms
+2024.05.15 11:14:19 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:14:19 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 38ms
+2024.05.15 11:14:22 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:14:22 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 40ms
+2024.05.15 11:14:28 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:14:28 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.12s
+2024.05.15 11:14:38 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:14:38 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.15s
+2024.05.15 11:14:39 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:14:39 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.14s
+2024.05.15 11:14:48 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:14:48 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.17s
+2024.05.15 11:14:53 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:14:53 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.18s
+2024.05.15 11:15:17 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:15:17 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 53ms
+2024.05.15 11:15:17 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:15:18 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.25s
+2024.05.15 11:15:29 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:15:29 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.14s
+2024.05.15 11:15:40 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
+2024.05.15 11:15:40 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.15s
