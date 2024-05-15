@@ -15,5 +15,5 @@
  val greet:()=>Unit = sayHi
 
  object Run extends App {
-   println(greet())
+   greet()
  }
