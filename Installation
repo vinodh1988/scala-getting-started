@@ -1,2 +1,11 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" 
 brew install scala
+
+install scala metal and jupyter  extensions
+
+and in the console
+
+///bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+// brew install almond
+
+ // Almond - this is a kernel for jupyter to support scala in jupyter notebook
