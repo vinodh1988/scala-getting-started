@@ -1,7 +1,7 @@
 
-def process(inputNumbers: Int*): Int = {
+def process(inputNumbers: Int*): Unit = {
    println(inputNumbers)
-   return 10
+   
 }
 
 @main def runThis() ={
