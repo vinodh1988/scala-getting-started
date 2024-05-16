@@ -8,4 +8,8 @@ val reg = str match {
 
 @main def regularExpression = {
      println(s" Result of the regular Expression is $reg")
+     val str = "Indian123"
+     if(str.matches("^[A-Za-z]+[0-9]+$")){
+        println("Yes it alphanumeric")
+     }
 }
