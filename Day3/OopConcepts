@@ -1,0 +1,125 @@
+
+Functional Programming 
+------------------------
+      Asynchronous programming
+
+Object Oriented Programming
+---------------------------
+        Encapsulation - Entity ( properties, activities)
+
+class------>   Template, Model, plan -Enitity
+
+Real Instance  ----- > Object
+
+
+ Abstraction - (not everything should be made able to be accessed)
+
+     class person{
+
+         sno
+         name
+         city
+
+         register()
+         report()
+     }
+
+  Access Specifiers   - private, protected
+    by default - if no access specifier is mentioned - public
+JAVA
+    public vs default
+
+    package
+       public - not only within the package but also outside the package it remains accessible
+       default - it behaves public within the package private for members outside the package
+
+Scala
+
+   default[public]
+       - it is public everywhere
+
+    what if you want a depiction that depicts default type
+
+    [package private specification]
+
+    polymorphism
+    -------------
+
+      too many identifiers  must be avoid to avoid confusion
+      as well to have a better coding format
+
+
+      constructor overloading
+      function/method overloading - same function different forms
+      method overriding - same function same form but at different levels - (override)
+      operator overloading- adding additional meaning for existing operator
+
+    inheritance
+    -----------
+          
+           Has-a
+                 Car has Steering
+                 Department has Employees
+           Is-a
+                 Programmer is an Employees
+                 EngStudent is a Student
+
+                   
+  Generalization vs (composition and aggregation)
+
+  Generalization
+
+       EngStudent(sno,name,age,specific1)
+       ArtStudent(sno,name,age,specific2)
+       SchoolStudent(sno,name,age,specific3)
+
+       (sno,name,name)----------> Student
+
+
+class Student  {}
+
+class EngStudent extends Student {}
+
+
+class Car {
+  Steering steering;
+
+}
+
+class Van {
+    Steering steering;
+}
+
+class Bus {
+    Steering steering;
+}
+
+class Dept {
+  List<Employee> employees;
+}
+
+
+Employee - (Clerk, Accountant, Manager, Programmer) --IS A
+Project 
+
+   Except Programmer no other employee type is associated with Project
+
+   Employee has a Project
+   No other type has Project
+
+class Programmer {
+    Project project
+
+    class Project {
+
+    }
+}
+
+Single
+Multi level
+Hierarchy
+
+------------------------------------------
+Multiple
+
+Traits?
