@@ -10,10 +10,12 @@ class Person(val name: String, var age: Int) {
 
 // Auxiliary constructor 2
   def this() = {
-    this("Unknown")  // Calls the first auxiliary constructor
+    this("Unknown") 
+    this.age =45 // Calls the first auxiliary constructor
     println("Auxiliary constructor 2")
   }
 
+  
    override def toString(): String = s" name : $name age: $age"
 }
 
