@@ -1,7 +1,8 @@
 
 def process(inputNumbers: Int*): Unit = {
    println(inputNumbers)
-   
+   println("---------------------")
+   inputNumbers.foreach(println)
 }
 
 @main def runThis() ={
