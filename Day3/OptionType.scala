@@ -13,4 +13,8 @@ object Runner extends App {
     println(actualValue)
     println(optionalInt.getOrElse(-1))
     println(second.getOrElse(-1))
+    if(second.isDefined)
+      println(second.get)
+    val result = if  ( second.isDefined ) second.get else  -1
+    println(result)
 }
