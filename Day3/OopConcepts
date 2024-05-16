@@ -123,3 +123,25 @@ Hierarchy
 Multiple
 
 Traits?
+
+
+Members of class
+-----------------
+
+    Shape  -  (length, breadth, radius, pi)
+  rectangle(length,breadh)
+  square(length)
+  circle(radius)
+
+
+ Student( sno,name,city,studentCount)
+
+ static - Class Members
+      It is at class level and it common for all objects
+
+
+scala - Doest scala support static keyword?
+
+  No
+   indirectly or with other concepts it do support the concept of Shared members
+
