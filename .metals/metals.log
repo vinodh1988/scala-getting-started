@@ -2980,3 +2980,5 @@ WARNING: Unmatched cancel notification for request id 14787
 2024.05.15 13:04:05 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 72ms
 2024.05.15 13:04:07 INFO  compiling scala-getting-started_f4dd477a3a (1 scala source)
 2024.05.15 13:04:07 INFO  time: compiled Scala-Getting-Started_f4dd477a3a in 0.18s
+May 16, 2024 10:20:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

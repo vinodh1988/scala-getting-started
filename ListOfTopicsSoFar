@@ -1,0 +1,21 @@
+Scala Types
+Any
+anyVal vs AnyRef
+Immutable Vs Mutable Variables
+Var vs Val keyword
+Basic Control Structures
+Arrays
+Pattern Matching
+Functions 
+Blocks
+
+Functional Programming
+       Functions to Variables
+       Lambda or Arrow Functions
+       Function as parameters (callbacks)
+       Function as Return Types
+       Nested Functions
+
+   Partial Functions
+   Partially applied Functions
+   Currying or Function chaining or Function Composition
