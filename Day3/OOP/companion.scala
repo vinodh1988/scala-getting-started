@@ -1,6 +1,7 @@
 class Person(sno: Int,name: String,city: String) {
     def showIt: Unit = {
         println(s"sno: $sno name: $name city: $city")
+        println(Person.generalMethod)
     }
    /* def setName(name: str):Unit = {
         this.name=name
@@ -21,5 +22,5 @@ object Person {
     //person1.setName("RAjesh")
     person1.showIt
     println(Person.info)
-    Person.generalMethod
+    
 }
