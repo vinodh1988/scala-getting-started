@@ -6,8 +6,8 @@ object StringExtensions {
     def isBig: Boolean = if (s.length()>10) true else false
   }
 
-  implicit class intOps(val x:Int) {
-     def isOdd: Boolean = x%2 ==0 
+  implicit class intOps(val x: Int) {
+     def isEven: Boolean = x%2 ==0 
      def add1000: Int = x+1000
   }
 }
@@ -21,4 +21,9 @@ object StringRun extends App {
  println(mydata.isBig)
  println(34.isOdd)
  println(34.add1000)
+ 
+ /* 
+   34, 034, 0x, 0b...
+   12.34
+  */
 }
