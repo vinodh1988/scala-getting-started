@@ -16,4 +16,14 @@ If a superclass reference holds a subclass object and if
     in the subclass but not in the superclass
 
     can it be called ? No
-     
+
+------------------------------------------------------
+
+Set of functionalities that are common to
+multiple entities not essentially related to each other
+
+
+addLubricant
+addFuel
+
+PowerGenerator, Van, Car, Bus

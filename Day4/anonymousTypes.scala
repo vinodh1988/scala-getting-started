@@ -1,14 +1,12 @@
 abstract class Animal {
-  def makeSound: ()=>Unit
+  def makeSound(): Unit
 }
 
 @main def runIt(): Unit = {
 val dog = new Animal {
-  def makeSound: ()=>Unit = () => {println("Woof")}
+  def makeSound(): Unit = println("Woof")
 }
 dog.makeSound()
 }
 /* 
-  area --> () => int
-  makesoun --> ()=> () --> Unit
  */
