@@ -4,11 +4,12 @@ trait Painter {
 }
 
 class OilPainter extends Painter {
-  def medium: String = "oil paints"
+def medium: String = "oil paints"
+override def paint(): Unit =println(s" oil painting is done with $medium")
 }
 
 class WatercolorPainter extends Painter {
-  def medium: String = "watercolors"
+def medium: String = "watercolors"
 }
 
 @main def goForIt(): Unit = {

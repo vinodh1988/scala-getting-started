@@ -1,0 +1,6 @@
+Object -> Throwable - > (Error, Exeption-> RuntimeException->Subclasse, Otherexception)
+
+
+try,throw,catch,throws,finally --> supported keywords to handle exceptions-Java
+
+try,throw,catch,finally -> supported in scala
