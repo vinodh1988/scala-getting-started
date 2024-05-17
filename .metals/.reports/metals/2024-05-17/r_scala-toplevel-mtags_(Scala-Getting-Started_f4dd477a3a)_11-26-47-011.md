@@ -1,4 +1,4 @@
-//We use this mechanism called implicit classes to extend the functionality of existing types
+error id: file://<WORKSPACE>/Day4/implicit.scala:[383..384) in Input.VirtualFile("file://<WORKSPACE>/Day4/implicit.scala", "//We use this mechanism called implicit classes to extend the functionality of existing types
 // Adding funcitonalities existing Types (anyVal, anyRef)
 object StringExtensions {
   implicit class StringOps(val s: String)  {
@@ -7,8 +7,7 @@ object StringExtensions {
   }
 
   implicit class intOps(val x:Int) {
-     def isOdd: Boolean = x%2 ==0 
-     def add1000: Int = x+1000
+     def
   }
 }
 import StringExtensions._
@@ -19,6 +18,11 @@ object StringRun extends App {
  println(mydata.toUpperCase)
  println(mydata.isPalindrome)
  println(mydata.isBig)
- println(34.isOdd)
- println(34.add1000)
-}
+}")
+file://<WORKSPACE>/Day4/implicit.scala
+file://<WORKSPACE>/Day4/implicit.scala:11: error: expected identifier; obtained rbrace
+  }
+  ^
+#### Short summary: 
+
+expected identifier; obtained rbrace
