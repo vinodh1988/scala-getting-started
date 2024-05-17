@@ -1,6 +1,7 @@
-class Shape(name: String)
+abstract class Shape(name: String)
 {
     def show = println(s" name: $name")
+    def area : ()=> Int
 }
 
 class Rectangle(name: String, length: Int, breadth: Int) extends Shape(name: String)
@@ -10,7 +11,7 @@ class Rectangle(name: String, length: Int, breadth: Int) extends Shape(name: Str
         println(s"length: $length breadth: $breadth")
     }
 
-    def area = length*breadth
+    override def area: Int = length*breadth
 }
 
 @main def runMain = {
