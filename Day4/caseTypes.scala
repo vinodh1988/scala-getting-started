@@ -9,9 +9,12 @@ object DoProjectRun extends App {
     println(project1.equals(project3))
     println(project1 == project3)
     println(project1 == project2)
-    
+    println(project1.name)
 }
 
+ /* 
+   var person = {sno: 1,name: "Rahul", city: "Chennai"}
+ */
 /* 
   some times if you want to create entity types that are immutable
   you can create them as case classes
