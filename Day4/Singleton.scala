@@ -4,16 +4,24 @@ class Store private(storename: String) {
 }
 
 object Store  {
-    def apply(storename: String): Store = new Store(storename) 
+    def apply(storename: String): Store = new Store(storename)  //factory
+    def apply(): Store = new Store("MyStore")
+
 }
+/* only once 
+object Store {
+    def moreExtension = println("Doing it getting away")
+}*/
 /*
 object Day {
     def apply(storename: String): Store = new Store(storename)
 }*/
 object Execute extends App {
  val store: Store = Store("AppStore")
+ val store2: Store = Store()
  //val doAgain: Store = Store("NewStore")
  println(store)
- println(doAgain)
+ println(store2)
+ //println(doAgain)
  //val day: Store= Day("AppStore")
 }
