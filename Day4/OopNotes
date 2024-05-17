@@ -1,0 +1,19 @@
+Super class reference can hold subclass objects
+
+If a superclass reference holds a subclass object and if
+    it is calling a overriden function 
+
+     will it copy superclass copy or subclass copy? Subclass copy
+
+If a superclass reference holds a subclass object and if
+    it is calling a function that is present only
+    in the super class but not in sub class
+
+    can it be called? Yes
+
+If a superclass reference holds a subclass object and if
+    it is calling a function that is present only
+    in the subclass but not in the superclass
+
+    can it be called ? No
+     
