@@ -1,0 +1,14 @@
+extend the day4  Task
+
+1. From the CSV filter out all the departments and
+add the department names to the department Throwable
+
+2. create a table employee that refers to department
+and add the corresponding employee details into 
+employees table
+
+3. create case classes for both departments and employees
+
+4. Finally print the department and the employees
+under the department in the form of tree for all the 
+departments
