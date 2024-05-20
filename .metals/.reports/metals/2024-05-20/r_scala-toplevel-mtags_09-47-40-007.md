@@ -1,4 +1,4 @@
-trait CodingActivity
+error id: file://<WORKSPACE>/Day5/ProjectActivity.scala:[851..852) in Input.VirtualFile("file://<WORKSPACE>/Day5/ProjectActivity.scala", "trait CodingActivity
 {
     def process: Unit
 }
@@ -36,21 +36,17 @@ class Project(name: String) extends CodingActivity {
     }
 }
 
-class TunedMavenBuilding(name: String) extends Project(name) with Building  {
-     
-     override def process: Unit = {
-        
-        super.process
-        println("This project is optimized to run a maven build and building it")
-    } 
-}
+class 
 
 @main def runTheTraitCompletely  ={
     val project:Project = new Project("Scala API Project") with Building with Deploy
     project.process
-    println("----------------------------------------------")
 
-    val project2:Project = new TunedMavenBuilding("Java Spring Boot Project") with Deploy
-    project2.process
+}")
+file://<WORKSPACE>/Day5/ProjectActivity.scala
+file://<WORKSPACE>/Day5/ProjectActivity.scala:41: error: expected identifier; obtained at
+@main def runTheTraitCompletely  ={
+^
+#### Short summary: 
 
-}
+expected identifier; obtained at
