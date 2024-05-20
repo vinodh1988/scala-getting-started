@@ -1,0 +1,123 @@
+Scala provides robust error handling mechanisms, primarily through its use of exceptions and the `Try` and `Either` data types. Here's an overview of each:
+
+1. **Exceptions:**
+   Scala uses exceptions for error handling similar to many other programming languages. Exceptions are thrown using the `throw` keyword and caught using `try-catch` blocks. Here's a simple example:
+
+   ```scala
+   try {
+     val result = riskyOperation()
+     println(result)
+   } catch {
+     case ex: Exception => println("An error occurred: " + ex.getMessage)
+   }
+   ```
+
+   In this example, if `riskyOperation()` throws an exception, it will be caught and an error message will be printed.
+
+2. **Try:**
+   Scala provides the `Try` data type, which represents a computation that may either result in an exception or a value. It's a functional way of dealing with exceptions. `Try` has two subtypes: `Success` and `Failure`. You can use pattern matching to extract the result or handle the failure case. Here's an example:
+
+   ```scala
+   import scala.util.Try
+
+   val result: Try[Int] = 
+    Try(10 / 0)
+
+   result match {
+     case Success(value) => println("Result: " + value)
+     case Failure(exception) => println("An error occurred: " + exception.getMessage)
+   }
+   ```
+
+   In this example, `result` will be a `Failure` containing an exception because dividing by zero throws an exception.
+
+3. **Either:**
+   Scala also provides the `Either` data type for error handling. It represents a value of one of two possible types: `Left` or `Right`. Conventionally, `Left` is used for errors and `Right` for successful results. Here's an example:
+
+   ```scala
+   def divide(x: Int, y: Int): Either[String, Int] =
+     if (y == 0) Left("Division by zero")
+     else Right(x / y)
+
+   val result: Either[String, Int] = divide(10, 0)
+
+   result match {
+     case Left(error) => println("Error: " + error)
+     case Right(value) => println("Result: " + value)
+   }
+   ```
+
+   In this example, `result` will be a `Left` containing the error message because dividing by zero is not allowed.
+
+Each of these mechanisms has its use cases, and the choice often depends on the specific requirements of the application and personal preference in coding style.
+
+In Scala, several keywords and constructs are associated with error handling:
+
+1. **throw:** Used to explicitly throw an exception. It's followed by an instance of `Throwable` or one of its subclasses.
+
+   ```scala
+   throw new RuntimeException("Something went wrong")
+   ```
+
+2. **try:** Begins a block of code in which exceptions may occur. Used in conjunction with `catch` and optionally `finally`.
+
+   ```scala
+   try {
+     // code that may throw an exception
+   } catch {
+     case ex: Exception => // handle the exception
+   } finally {
+     // optional block of code that is executed regardless of whether an exception was thrown
+   }
+   ```
+
+3. **catch:** Used within a `try` block to specify one or more exception handlers. Each `catch` block specifies the type of exception it can handle.
+
+   ```scala
+   try {
+     // code that may throw an exception
+   } catch {
+     case ex: IOException => // handle IOException
+     case ex: RuntimeException => // handle RuntimeException
+   }
+   ```
+
+4. **finally:** An optional block of code that follows the `try` block and is executed regardless of whether an exception was thrown. It's often used for cleanup tasks.
+
+   ```scala
+   try {
+     // code that may throw an exception
+   } finally {
+     // cleanup code
+   }
+   ```
+
+5. **Success:** Represents the successful result of a computation in the `Try` monad.
+
+   ```scala
+   import scala.util.Success
+
+   val result: Try[Int] = Success(42)
+   ```
+
+6. **Failure:** Represents the failure of a computation in the `Try` monad.
+
+   ```scala
+   import scala.util.Failure
+
+   val result: Try[Int] = Failure(new RuntimeException("Something went wrong"))
+   ```
+
+7. **Left:** Represents the left side (typically the error case) of an `Either` instance.
+
+   ```scala
+   val result: Either[String, Int] = Left("Error message")
+   ```
+
+8. **Right:** Represents the right side (typically the success case) of an `Either` instance.
+
+   ```scala
+   val result: Either[String, Int] = Right(42)
+   ```
+
+These keywords and constructs form the foundation of error handling in Scala, providing developers with flexibility and expressiveness in dealing with errors and exceptions.
