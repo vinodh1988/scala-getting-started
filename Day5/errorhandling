@@ -127,4 +127,4 @@ These keywords and constructs form the foundation of error handling in Scala, pr
 
 
 
-mysql -u sqladmin -hostname hadoop-server.mysql.database.azure.com -p
+mysql -u sqladmin -h hadoop-server.mysql.database.azure.com -p 
