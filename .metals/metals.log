@@ -32624,3 +32624,29 @@ WARNING: Unmatched cancel notification for request id 5525
 2024.05.20 10:23:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/QueueStack.scala. Using presentation compiler with project's scala-library version: 3.3.3
 2024.05.20 10:23:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/QueueStack.scala. Using presentation compiler with project's scala-library version: 3.3.3
 2024.05.20 10:23:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/QueueStack.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:32 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala
+2024.05.20 10:29:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:33 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala
+2024.05.20 10:29:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:34 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala
+2024.05.20 10:29:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:35 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala
+2024.05.20 10:29:35 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:35 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala
+2024.05.20 10:29:36 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:36 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala
+2024.05.20 10:29:35 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:36 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala
+2024.05.20 10:29:36 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:36 WARN  Could not find semantic tokens for: file:///Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala
+2024.05.20 10:29:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:46 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala
+2024.05.20 10:29:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:48 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala
+2024.05.20 10:29:48 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:29:48 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
