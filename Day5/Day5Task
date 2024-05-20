@@ -1,7 +1,7 @@
 extend the day4  Task
 
 1. From the CSV filter out all the departments and
-add the department names to the department Throwable
+add the department names to the department Table
 
 2. create a table employee that refers to department
 and add the corresponding employee details into 
