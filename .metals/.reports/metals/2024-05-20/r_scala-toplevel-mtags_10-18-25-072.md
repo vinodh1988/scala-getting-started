@@ -1,4 +1,4 @@
-trait Pizza
+error id: file://<WORKSPACE>/Day5/Pizza.scala:[699..700) in Input.VirtualFile("file://<WORKSPACE>/Day5/Pizza.scala", "trait Pizza
 {
     def prepare: Unit
 }
@@ -31,10 +31,7 @@ class PizzaMaking extends Pizza
         println("Baking pizza base")
     }
     
-    
-     def billIt: Unit = {
-         println("Pay the bill $$$$$")
-    }
+    def
 }
 
 object MainIt extends App {
@@ -43,4 +40,11 @@ object MainIt extends App {
     val pizzanow2: PizzaMaking = new PizzaMaking with Saucing with OlivesTopping
     pizzanow2.prepare
     pizzanow2.billIt
+}")
+file://<WORKSPACE>/Day5/Pizza.scala
+file://<WORKSPACE>/Day5/Pizza.scala:35: error: expected identifier; obtained rbrace
 }
+^
+#### Short summary: 
+
+expected identifier; obtained rbrace
