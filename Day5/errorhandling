@@ -121,3 +121,10 @@ In Scala, several keywords and constructs are associated with error handling:
    ```
 
 These keywords and constructs form the foundation of error handling in Scala, providing developers with flexibility and expressiveness in dealing with errors and exceptions.
+
+
+
+
+
+
+mysql -u sqladmin -hostname hadoop-server.mysql.database.azure.com -p
