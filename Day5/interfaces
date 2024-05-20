@@ -1,0 +1,8 @@
+contract?
+
+   if an interface is implemented by a class it is bound to define the abstract
+   methods in the class
+
+
+   with one common reference we can process all the implementations
+   
