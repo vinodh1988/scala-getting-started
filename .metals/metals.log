@@ -32650,3 +32650,961 @@ WARNING: Unmatched cancel notification for request id 5525
 2024.05.20 10:29:48 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala
 2024.05.20 10:29:48 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
 2024.05.20 10:29:48 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:40 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:40 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:42 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:42 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:43 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:32:43 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:44 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:44 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:44 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:45 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:45 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:45 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:45 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:45 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:45 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:48 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:48 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:48 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:49 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:32:49 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:52 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:52 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:53 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:53 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:53 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:54 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:54 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:54 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:55 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:55 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:32:55 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:32:55 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:12 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:15 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:15 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:18 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:18 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:18 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:33:18 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:20 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:20 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:21 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:21 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:21 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:23 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:23 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:24 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:24 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:24 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:24 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:25 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:25 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:25 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:25 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:25 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:26 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:26 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:27 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:27 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:33:27 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:28 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:28 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:28 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:35 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:35 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:36 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:33:36 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:36 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:37 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:37 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:37 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:33:37 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:39 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:39 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:39 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:40 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:40 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:33:40 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:41 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:41 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:41 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:42 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:43 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:43 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:43 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:43 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:44 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:33:44 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:44 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:45 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:45 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:45 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:45 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:47 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:33:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:48 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:48 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:49 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:52 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:52 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:55 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:55 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:55 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:56 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:55 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:58 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:33:59 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:33:59 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:00 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:00 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:00 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:04 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:04 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:04 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:04 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:04 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:04 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:05 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:05 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:05 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:12 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:15 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:15 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:15 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:18 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:18 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:19 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:19 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:19 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:18 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:19 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:19 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:20 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:20 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:20 ERROR Failed to tokenize input for semantic tokens for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+scala.meta.tokenizers.TokenizeException: <input>:9: error: unclosed string interpolation
+       println(s"Producing the product with spart Part $")
+                 ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:666)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:364)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:514)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.05.20 10:34:21 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:34:21 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:21 ERROR Failed to tokenize input for semantic tokens for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+scala.meta.tokenizers.TokenizeException: <input>:9: error: unclosed string interpolation
+       println(s"Producing the product with spart Part $")
+                 ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:666)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:364)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:514)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.05.20 10:34:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:23 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:23 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:23 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:23 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:23 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:23 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:34:24 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:26 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:26 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:27 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:34:27 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:28 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:28 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:29 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:29 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:32 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:34:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:34 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:34:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:35 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:35 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:35 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:36 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:36 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:37 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:34:37 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:38 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:38 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:38 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:39 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:39 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:39 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:34:39 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:40 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:40 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:40 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:40 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:34:40 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:40 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:40 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:42 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:44 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:49 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:51 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:34:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:52 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:52 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:53 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:34:53 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:53 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:34:53 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:54 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:34:57 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:34:58 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:00 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:00 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:12 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:12 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:12 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:15 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:15 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:15 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:15 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:15 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:18 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:19 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:35:19 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:19 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:19 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:19 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:20 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:20 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:20 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:21 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:23 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:23 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:24 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:24 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:24 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:35:25 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:25 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:26 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:26 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:27 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:27 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:35:27 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:27 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:27 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:28 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:35:28 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:29 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:29 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:33 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:35:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:35 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:44 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:44 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:44 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:45 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:45 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:44 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:48 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:48 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:48 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:49 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:35:49 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:49 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:52 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:35:52 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:53 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:53 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:53 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:53 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:53 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:53 ERROR Failed to tokenize input for semantic tokens for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+scala.meta.tokenizers.TokenizeException: <input>:14: error: unclosed string interpolation
+   val object1")
+               ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:666)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:364)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:514)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.05.20 10:35:53 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:54 ERROR Failed to tokenize input for semantic tokens for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+scala.meta.tokenizers.TokenizeException: <input>:14: error: unclosed string interpolation
+   val objec")
+             ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:666)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:364)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:383)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:214)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:982)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:16)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:16)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:331)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:514)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.05.20 10:35:54 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:55 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:55 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:56 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:56 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:56 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:56 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:58 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:35:58 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:59 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:59 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:59 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:35:59 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:35:59 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:03 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:36:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:36 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:37 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:37 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:37 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:36:37 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:38 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:38 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:52 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:52 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:36:52 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:36:52 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:28 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:28 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:29 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:37:28 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:29 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:30 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:37:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:31 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:37:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:35 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:37:35 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:59 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:59 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:37:59 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:00 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:00 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:03 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:38:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:03 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:38:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:27 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day4/traitHierarchy.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day4/traitHierarchy.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day4/traitHierarchy.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day4/traitHierarchy.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:43 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:44 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:43 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:48 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:49 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:51 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:38:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:51 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:38:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:54 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day4/traitHierarchy.scala. Using presentation compiler with project's scala-library version: 3.3.3
+May 20, 2024 10:38:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7446
+2024.05.20 10:38:54 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day4/traitHierarchy.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day4/Traits.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day4/Traits.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:38:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day4/Traits.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:39:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+May 20, 2024 10:39:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7461
+2024.05.20 10:39:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:39:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:39:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:39:47 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:39:49 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:39:49 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:39:49 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:39:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:39:49 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:39:49 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:39:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:04 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:04 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:04 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:07 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:40:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:07 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:40:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:09 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:40:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:12 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:40:12 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:40:12 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:20 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Pizza.scala. Using presentation compiler with project's scala-library version: 3.3.3
+May 20, 2024 10:44:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7527
+2024.05.20 10:44:20 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Pizza.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:20 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Pizza.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Pizza.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:25 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:25 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:30 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Pizza.scala. Using presentation compiler with project's scala-library version: 3.3.3
+May 20, 2024 10:44:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7543
+2024.05.20 10:44:31 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Pizza.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/QueueStack.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/QueueStack.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+May 20, 2024 10:44:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7557
+2024.05.20 10:44:33 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:37 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:37 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:37 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:43 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:43 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:43 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:46 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:49 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:49 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:50 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:52 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:52 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala
+2024.05.20 10:44:52 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:44:57 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:05 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:05 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:05 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:05 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:18 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:23 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:24 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:24 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:24 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:26 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:26 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:26 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:26 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:27 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:27 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala
+2024.05.20 10:45:27 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:32 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala
+2024.05.20 10:45:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:52 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:55 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:55 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:55 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:56 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:56 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:56 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:45:58 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:46:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/ProjectActivity.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:46:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/QueueStack.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:46:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/QueueStack.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:46:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/QueueStack.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:46:12 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:46:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/Vehicle.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:46:20 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+May 20, 2024 10:46:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7687
+2024.05.20 10:46:20 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:46:21 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:09 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:10 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:11 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:47:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:11 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:13 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:14 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:15 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:15 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:16 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:47:15 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:16 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:18 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:18 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:18 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:47:18 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:18 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:21 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:21 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:21 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:22 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:23 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:23 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:24 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:24 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:24 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:25 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:47:25 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:55 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:55 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:58 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:47:59 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:01 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:02 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:03 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:48:03 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:08 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:48:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:07 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala
+2024.05.20 10:48:08 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:12 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:28 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:28 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:32 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:34 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:36 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:36 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:37 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:37 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:41 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:41 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.20 10:48:41 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/SparePart.scala. Using presentation compiler with project's scala-library version: 3.3.3

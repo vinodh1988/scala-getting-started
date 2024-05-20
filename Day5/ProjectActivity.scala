@@ -46,7 +46,7 @@ class TunedMavenBuilding(name: String) extends Project(name) with Building  {
 }
 
 @main def runTheTraitCompletely  ={
-    val project:Project = new Project("Scala API Project") with Building with Deploy
+    val project:Project = new Project("Scala API Project")  with Deploy
     project.process
     println("----------------------------------------------")
 
