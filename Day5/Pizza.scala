@@ -38,9 +38,9 @@ class PizzaMaking extends Pizza
 }
 
 object MainIt extends App {
-    val pizzanow: PizzaMaking = new PizzaMaking with Saucing with MushrooomTopping
+    val pizzanow: PizzaMaking = new PizzaMaking with MushrooomTopping
     pizzanow.prepare
-    val pizzanow2: PizzaMaking = new PizzaMaking with Saucing with OlivesTopping
+    val pizzanow2: PizzaMaking = new PizzaMaking with OlivesTopping
     pizzanow2.prepare
     pizzanow2.billIt
 }
