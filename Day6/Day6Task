@@ -1,0 +1,23 @@
+Task1
+----- 
+Modify the task of day6 
+to process the csv records using thread pool
+to encourage parellel processing
+
+and modify the employee table slightly
+with additional columns threadname and timestamp just
+to have an entry of the thread id that
+entered the record
+
+Task2
+-----
+
+From the employee table a 4 member
+from sales need to be sent on assignment
+to client
+
+Create a function that gives
+all the combinations that are possible (Note: Not
+permutations)
+Use Backtracking concept to come up with the algorithm
+
