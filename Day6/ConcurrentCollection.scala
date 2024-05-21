@@ -1,4 +1,7 @@
-import java.util.concurrent.ConcurrentHashMap
+import java.util.concur
+
+
+rent.ConcurrentHashMap
 object ConcurrencyHash {
 
  def main(args: Array[String]) =
