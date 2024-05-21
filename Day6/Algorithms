@@ -1,0 +1,37 @@
+import scala.annotation.tailrec
+def factorialTail(n: Int): Int = {
+@tailrec
+  def factorialHelper(acc: Int, num: Int): Int = {
+    if (num <= 1) acc
+    else factorialHelper(acc * num, num - 1)
+  }
+
+  factorialHelper(1, n)
+} // the problem can be resolved with individual results
+//Tail Recursion -  In Tail Recursion , 
+ //The recursive call would be the last executed Statemtn in the function
+// it would not be part of any expression
+// It gives a scope for runtime to main the stack with the last call alone
+// earlier results can be removed out of the stack
+factorialTail(3)
+      factorialHelper(1,3) -> factorialHelper(3,2)
+      factorialHelper(3,2) -> factorialHelper(6,1)
+      factorialHelper(6,1) -> 6
+
+@tailrec
+def factorialNonTail(n: Int): Int = {
+
+  if (n <= 1) 1
+  else n * factorialNonTail(n - 1)
+} //stack
+
+
+/*
+   Recursion
+
+    [Last Call > LastBeforeCall > Last Before Call...........First Call]
+
+    Stack?
+
+
+*/
