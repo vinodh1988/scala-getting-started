@@ -1,0 +1,10 @@
+docker images
+docker pull hello-world
+
+#list all container regardless of status
+
+docker ps  -a
+
+#list all  container that are running
+
+docker ps 
