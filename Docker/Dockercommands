@@ -31,3 +31,8 @@ docker build -t interact-python .
 # running a http server with port mapping
 
 docker run -d -p 8000:80 httpd
+
+# Download carvilla
+wget https://www.free-css.com/assets/files/free-css-templates/download/page296/carvilla.zip
+
+sudo apt install unzip
