@@ -36,3 +36,18 @@ docker run -d -p 8000:80 httpd
 wget https://www.free-css.com/assets/files/free-css-templates/download/page296/carvilla.zip
 
 sudo apt install unzip
+
+# Executing commands in the running container
+
+docker exec -it 90325145ada8 /bin/bash
+
+# Dockerfile for httpd creation
+FROM httpd:2.4
+COPY . /usr/local/apache2/htdocs/
+
+# building
+
+docker build -t carvilla .
+
+# running
+docker run -d -p 9000:80 carvilla
