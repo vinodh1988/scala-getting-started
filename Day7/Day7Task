@@ -15,4 +15,12 @@ Outcomes:
     - How reallocation happens if a consumer is 
     Removed
     
-    
+Task2
+------
+Create a simple interactive scala console
+application that takes user input
+
+and prints the output
+
+Dockerize it and run it as a container
+
