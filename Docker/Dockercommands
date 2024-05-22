@@ -8,3 +8,11 @@ docker ps  -a
 #list all  container that are running
 
 docker ps 
+
+#run container in interactive mode
+
+docker run -it  ubuntu
+
+# save a exited container with a new image name
+
+docker commit <container id or name > <new image name>
