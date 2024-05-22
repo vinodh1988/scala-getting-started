@@ -23,3 +23,11 @@ FROM python:3
 WORKDIR /usr/src/app
 COPY interact.py .
 CMD [ "python", "./interact.py" ]
+
+# build an image
+
+docker build -t interact-python .
+
+# running a http server with port mapping
+
+docker run -d -p 8000:80 httpd
