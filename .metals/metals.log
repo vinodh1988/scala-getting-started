@@ -36579,3 +36579,19 @@ WARNING: Unmatched cancel notification for request id 13710
 2024.05.21 11:56:04 WARN  no build target for: /Users/vinodh/Scala-Getting-Started/Day6/ConcurrentCollection.scala
 2024.05.21 11:56:04 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day6/ConcurrentCollection.scala. Using presentation compiler with project's scala-library version: 3.3.3
 2024.05.21 11:56:07 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day6/ConcurrentCollection.scala. Using presentation compiler with project's scala-library version: 3.3.3
+May 21, 2024 7:29:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14342
+2024.05.21 19:29:49 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/database.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 19:29:49 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/database.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 19:29:51 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/database.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 19:29:54 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/database.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 19:29:54 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/database.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 19:29:54 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/database.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 19:34:19 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/database.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 19:55:27 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/database.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 19:56:17 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/database.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 20:00:26 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/database.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 20:00:40 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/database.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 20:07:28 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/database.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 22:02:45 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/database.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 22:06:06 INFO  no build target found for /Users/vinodh/Scala-Getting-Started/Day5/database.scala. Using presentation compiler with project's scala-library version: 3.3.3

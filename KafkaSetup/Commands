@@ -1,0 +1,45 @@
+#zookeeper
+
+zookeeper-server-start.sh $KAFKA_PATH/config/zookeeper.properties
+
+
+#broker1
+
+kafka-server-start.sh $KAFKA_PATH/config/server1.properties
+#broker2
+
+kafka-server-start.sh $KAFKA_PATH/config/server2.properties
+#broker3
+
+kafka-server-start.sh $KAFKA_PATH/config/server3.properties
+# list topics
+
+kafka-topic.sh --bootstrap-server localhost:9092  --list
+
+# create topic
+
+kafka-topic.sh --bootstrap-server localhost:9092  --topic messages --create
+
+# create topic with properties
+
+# list topics
+
+kafka-topic.sh --bootstrap-server localhost:9092  --topic messages --replication-factor 2
+--partitions 2 --create
+
+# describe topic
+
+kafka-topics.sh --bootstrap-server localhost:9092 --topic messages --describe
+
+
+#produce a message
+kafka-console-producer.sh --bootstrap-server localhost:9082 --topic messages
+
+#consume a message -latest
+
+kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic messages
+
+#consume a message -- from beginning
+
+kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic messages --from-beginnig
+
