@@ -62,3 +62,5 @@ kafka-console-consumer.sh --bootstrap-server <broker-list> --topic <topic-name> 
 - `--formatter <class-name>`: To use a custom formatter class to format the output.
 
 This command provides a straightforward way to launch a Kafka consumer in a consumer group directly from your terminal, which is very useful for testing and development purposes.
+
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic your_topic_name --from-beginning --property print.key=true --property print.partition=true

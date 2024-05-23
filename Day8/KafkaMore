@@ -1,0 +1,47 @@
+To send messages to a Kafka topic from the command line with specific partition keys, you can use the Kafka command-line tools that come with the Kafka distribution. Specifically, you would use the `kafka-console-producer` tool. However, note that the default `kafka-console-producer` does not allow you to specify a partition directly; it only allows key-based partitioning if the key and value serializers are set to parse keys.
+
+Here’s how you can do it:
+
+### 1. Download and Set Up Kafka
+First, ensure you have Kafka downloaded and set up on your machine. You can download it from the [Apache Kafka website](https://kafka.apache.org/downloads).
+
+### 2. Start Zookeeper and Kafka Server
+Run Zookeeper and Kafka server using the following commands from your Kafka installation directory:
+```bash
+# Start Zookeeper
+bin/zookeeper-server-start.sh config/zookeeper.properties
+
+# Start Kafka server
+bin/kafka-server-start.sh config/server.properties
+```
+
+### 3. Use kafka-console-producer with Keys
+To use `kafka-console-producer` with keys (which implicitly allows partitioning based on the key), you’ll need to specify that keys should be parsed from the input. Here is how to run the producer with key support:
+
+```bash
+bin/kafka-console-producer.sh --broker-list localhost:9092 --topic YourTopicName --property "parse.key=true" --property "key.separator=:"
+```
+
+In this command:
+- `--broker-list` specifies the Kafka broker's address.
+- `--topic` specifies the topic to which you want to send messages.
+- `--property "parse.key=true"` enables key parsing.
+- `--property "key.separator=:"` specifies that the colon (:) is used to separate keys and values in the input.
+
+### 4. Send Messages
+Once the producer is running, you can start sending messages. Type your key and message into the console separated by the colon:
+```bash
+key1:value1
+key2:value2
+```
+
+Each line you enter will send a message to your Kafka topic, where the partition is determined by the key.
+
+### 5. Verify the Messages
+You can consume the messages to verify they have been sent to the correct partitions using `kafka-console-consumer`. Here’s a command to start a simple consumer:
+```bash
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic YourTopicName --from-beginning
+```
+
+This setup allows you to manually specify keys via the command line, and Kafka will handle partitioning based on the hash of the key.
+

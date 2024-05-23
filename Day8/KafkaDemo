@@ -1,0 +1,12 @@
+admin@Vinodh ~ % kafka-topics.sh --bootstrap-server localhost:9092 --topic message-demo --create
+Created topic message-demo.
+admin@Vinodh ~ % kafka-topics.sh --bootstrap-server localhost:9092 --topic message-key-demo --create
+Created topic message-key-demo.
+admin@Vinodh ~ % kafka-consumer-groups --bootstrap-server localhost --list    
+zsh: command not found: kafka-consumer-groups
+admin@Vinodh ~ % kafka-consumer-groups.sh --bootstrap-server localhost:9092 --list
+console-consumer-81967
+
+admin@Vinodh ~ % kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic message-demo2 --from-beginning --property print.key=true --property print.partition=true
+
+

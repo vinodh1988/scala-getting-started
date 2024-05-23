@@ -1,0 +1,13 @@
+For Scala Play Application
+modify the application to hold
+the database configuration as environment
+variables
+
+Dockerize the application
+
+Build the image 
+
+and while running the app pass the env variables
+
+and ensure the database logic is running by establishing
+connection properly
