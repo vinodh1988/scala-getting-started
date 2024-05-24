@@ -17,7 +17,7 @@ def processData(data: String): Future[Int] = Future {
 }
 
 // Chain the Futures using flatMap and map
-val resultFuture = fetchData(101).flatMap { data =>
+val resultFuture:Future[Int] = fetchData(101).flatMap { data =>
   processData(data)
 }
 
