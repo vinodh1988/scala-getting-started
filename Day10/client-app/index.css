@@ -1,0 +1,12 @@
+th {
+    background-color: darkblue;
+    color: aliceblue
+}
+td{
+    background-color: aliceblue;
+    color: darkblue;
+}
+
+th,td {
+    width: 150px;
+}
