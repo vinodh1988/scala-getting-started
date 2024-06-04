@@ -1,0 +1,13 @@
+Create an API using Akka
+
+the end point must /file-upload
+
+input : 
+{
+    "file-path" : "macpath here"
+}
+
+the given file should be uploaded to AWS S3 bucket
+
+create appropriate access key in aws
+

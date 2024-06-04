@@ -10,3 +10,13 @@ td{
 th,td {
     width: 150px;
 }
+       Certfiying authority ----> Certificate
+-------------------------------------
+
+App1 [server1] ---------              App[server2]
+certificate1 (public,private)         certificate2(public,private)
+certificate2 (public)                 certificate1(public)
+
+browser --------------> [App1][server1]
+ verifying                         certficate(public, private)
+public key (certificate)
