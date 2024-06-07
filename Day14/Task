@@ -1,0 +1,17 @@
+Task1
+-----
+Upload a json data in AWS
+
+Write a spark job to read it
+perform filter or aggregate operations
+pass on the result to RDBMS table
+(preferrably MYSQL)
+
+Task2
+-----
+write a spark job to get connected
+with RDBMS
+read a table
+perform filter or aggregate operations using dataframe
+and convert the dataframe to csv data
+pass it aws s3 bucket 
