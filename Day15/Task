@@ -1,0 +1,12 @@
+1. upload a csv data file in HDFS
+2. Write a scala spark program in intellij to
+read the csv file and perform aggregate operations
+3. create a result json file that stores
+the results and it should be created in HDFS
+4. also the same data to be written on 
+database table in MYSQL
+5. Build the application and create a jar
+6. upload the jar to name node machine
+7. do spark-submit of the jar in cluster mode
+6. analyse the logs and DAG in Spark UI after
+executing
