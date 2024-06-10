@@ -8,5 +8,40 @@ database table in MYSQL
 5. Build the application and create a jar
 6. upload the jar to name node machine
 7. do spark-submit of the jar in cluster mode
-6. analyse the logs and DAG in Spark UI after
+8. analyse the logs and DAG in Spark UI after
 executing
+
+sample repo for building jar:
+https://github.com/vinodh1988/scala-spark-jar-sample.git
+
+use sbt assembly 
+command to build
+
+sample code to read from hdfs
+
+import org.apache.spark.sql.SparkOperation
+import org.apache.spark.sql.functions._
+
+object CSVtoJSON {
+  def main(args: Array[String]): Unit = {
+    val spark = SparkSession.builder()
+      .appName("CSV to JSON Converter")
+      .getOrCreate()
+
+    val inputPath = "hdfs://path/to/input/file.csv"
+    val outputPath = "hdfs://path/to/output/json"
+
+    val df = spark.read
+      .option("header", "true")
+      .option("inferSchema", "true")
+      .csv(inputPath)
+
+    val filteredDf = df.filter(col("age") > 30)
+
+    filteredDf.write
+      .mode("overwrite")
+      .json(outputPath)
+
+    spark.stop()
+  }
+}
