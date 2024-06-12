@@ -1,0 +1,4 @@
+Create a spark job
+That reads two tables that has one to many relationship
+perform join operations
+and create a nested json and store it into the file
