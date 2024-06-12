@@ -1,0 +1,16 @@
+Post Sample log Messages
+into Kafka 
+using console producer
+
+Write a Spark Streaming job
+that reads the Messages
+checks for words like
+like (serious,critical,error,stopped, suspended,
+overflow, issue)
+if any of this word exists (regardless of case)
+filter those messages 
+and move it to file called critical_care.logs
+if it is not having such words
+movie it to file called normal_messages.logs
+
+Note: no data format ,data should be treated as plain text

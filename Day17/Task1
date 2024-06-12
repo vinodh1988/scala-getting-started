@@ -1,0 +1,17 @@
+For the 
+Sales , Products and Customer
+schemas
+
+Sales(transaction_id,product_id,customer_id,units)
+Products(product_id,name,price)
+Customers(customer_id,name, address,city)
+
+create a table SalesCFamily in Keyspaces
+with all the columns in the three tables 
+(transaction_id,product_id,productname,customername,salesamount)
+
+Note: salesamount = price*units
+
+Create a Spark job to perform join
+operation on the tables
+and write the result to Keyspaces
